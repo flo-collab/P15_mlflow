@@ -1,0 +1,8 @@
+*.csv
+*.md
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+*.joblib
+
+!01-Kaggle-Taxi-Fare/lasso_v0_predictions
